@@ -1,7 +1,5 @@
 # fqga-single:
-Link to paper:
+Link to paper: https://arxiv.org/pdf/2408.09218
 
-https://arxiv.org/pdf/2408.09218
-
-# Updates:
+## Updates:
 Pending, still selecting an appropriate license for this repository, in the meantime, for more information, you can email: choyang002@gmail.com
